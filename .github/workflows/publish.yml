@@ -15,5 +15,5 @@ jobs:
           username: VasilevID1111
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: docker.pkg.github.com
-          repository: YOURNAME/publish-packages/game
+          repository: VasilevID1111/publish-packages/game
           tag_with_sha: true
